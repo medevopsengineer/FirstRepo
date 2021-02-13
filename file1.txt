@@ -1,3 +1,5 @@
 line 1 master
 
 this line is from branch1
+this line is from branch2
+
